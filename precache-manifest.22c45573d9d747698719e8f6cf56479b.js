@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/rc-fractals/static/css/main.048b4cee.chunk.css"
   },
   {
-    "revision": "b5ae59151a1ec32f94597e9a667bcd7d",
+    "revision": "470ca6d6c4b440f700b08c25f574790d",
     "url": "/rc-fractals/index.html"
   }
 ];
